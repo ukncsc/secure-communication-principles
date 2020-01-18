@@ -4,7 +4,7 @@
 
 Communications will typically transit a network, and in doing so they will pass through various servers and routers. Any of these network nodes with access to un-encrypted data may be able to access **all** communications between **all** users.
 
-Network nodes that have access to un-encrypted data should be appropriately protected, at a level considerate of the impact of any compromise of communications. If the appropriate level of protection required for network nodes cannot be met, you should consider using a service that does not require un-encrypted communications data to pass through network nodes.
+Network nodes that have access to un-encrypted data should be appropriately protected, at a level considerate of the impact of any compromise of communications. If the appropriate level of protection required for network nodes cannot be met, you should consider using a service that supports end to end encryption. 
 
 ## Are network nodes that manage cryptographic key material protected appropriately?
 
